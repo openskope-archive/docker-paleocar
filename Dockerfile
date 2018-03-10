@@ -1,4 +1,4 @@
-from openskope/feddata:0.1.0
+from openskope/feddata:0.1.2
 
 ARG DEBIAN_FRONTEND=noninteractive
 
